@@ -1,0 +1,14 @@
+{
+  "name": "polymer-app",
+  "main": "index.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^2.0.0",
+    "app-layout": "PolymerElements/app-layout#^2.0.0",
+    "iron-ajax": "polymerelements/iron-ajax#^2.0.2",
+    "iron-elements": "PolymerElements/iron-elements#^1.0.10"
+  },
+  "devDependencies": {
+    "web-component-tester": "Polymer/web-component-tester#^6.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^1.0.0"
+  }
+}
